@@ -116,17 +116,40 @@
 
 <hr />
 
-<!-- repositories -->
+<!-- 💼 FEATURED PROJECTS 💼 -->
 <h2 align="center">💼 Featured Projects 💼</h2>
 <br />
 <div align="center">
+
+  <!-- AI Chatbot -->
   <a href="https://github.com/hoangle2302/chatbots-web" title="AI Chatbot">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Hhoangle2302&repo=helmet-detection&theme=graywhite&border_radius=10" />
+    <img
+      height="115"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=hoangle2302&repo=chatbots-web&theme=transparent&border_radius=10"
+      alt="AI Chatbot Repository"
+    />
   </a>
-  <a href="https://github.com/hoangle2302/profile-web" title="Portfolio">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Hhoangle2302&repo=ai-chatbot&theme=graywhite&border_radius=10" />
+
+  <!-- Helmet Detection -->
+  <a href="https://github.com/hoangle2302/helmet-detection" title="Helmet Detection">
+    <img
+      height="115"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=hoangle2302&repo=helmet-detection&theme=transparent&border_radius=10"
+      alt="Helmet Detection Repository"
+    />
   </a>
+
+  <!-- Portfolio Website -->
+  <a href="https://github.com/hoangle2302/profile-web" title="Portfolio Website">
+    <img
+      height="115"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=hoangle2302&repo=profile-web&theme=transparent&border_radius=10"
+      alt="Portfolio Website Repository"
+    />
+  </a>
+
 </div>
+
 
 <br /><br />
 
