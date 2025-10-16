@@ -84,7 +84,7 @@
   <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="![snake gif](https://github.com/hoangle2302/hoangle2302/blob/output/github-snake-dark.svg)" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/hoangle2302/hoangle2302/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/hoangle2302/hoangle2302/blob/output/github-snake.svg" />
     <img src="https://github.com/hoangle2302/hoangle2302/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
   </picture>
   <br />
@@ -156,5 +156,6 @@
 <div align="center">
   <a href="https://github.com/hoangle2302?tab=repositories">🔍 View More 🔍</a>
 </div>
+
 
 
