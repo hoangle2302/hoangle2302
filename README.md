@@ -1,5 +1,5 @@
 <!-- profile view count -->
-<img align="right" src="https://komarev.com/ghpvc/?username=hngle" />
+<img align="right" src="https://komarev.com/ghpvc/?username=Hhoangle2302" />
 
 <!-- introduction -->
 <h1 align="center">
@@ -100,18 +100,18 @@
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br />
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=hngle&show_icons=true">
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=hngle&show_icons=true&theme=react&hide_border=true" alt="hngle's GitHub stats" />
+  <a href="https://github-readme-stats.vercel.app/api?username=hoangle2302&show_icons=true">
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=hoangle2302&show_icons=true&theme=react&hide_border=true" alt="hngle's GitHub stats" />
   </a>
   <a href="https://github-readme-streak-stats.herokuapp.com">
-    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=hngle&theme=react&hide_border=true" alt="hngle's streak stats" />
+    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangle2302&theme=react&hide_border=true" alt="hngle's streak stats" />
   </a>
 </p>
 
 <br />
 
-<a href="https://github-readme-activity-graph.vercel.app/graph?username=hngle">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hngle&theme=react-dark&hide_border=true" width="100%" alt="hngle's activity graph" />
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=hoangle2302">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangle2302&theme=react-dark&hide_border=true" width="100%" alt="hngle's activity graph" />
 </a>
 
 <hr />
@@ -120,11 +120,11 @@
 <h2 align="center">💼 Featured Projects 💼</h2>
 <br />
 <div align="center">
-  <a href="https://github.com/hngle/helmet-detection" title="Helmet Detection (YOLO)">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hngle&repo=helmet-detection&theme=graywhite&border_radius=10" />
+  <a href="https://github.com/hoangle2302/chatbots-web" title="AI Chatbot">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Hhoangle2302&repo=helmet-detection&theme=graywhite&border_radius=10" />
   </a>
-  <a href="https://github.com/hngle/ai-chatbot" title="AI Chatbot">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hngle&repo=ai-chatbot&theme=graywhite&border_radius=10" />
+  <a href="https://github.com/hoangle2302/profile-web" title="Portfolio">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Hhoangle2302&repo=ai-chatbot&theme=graywhite&border_radius=10" />
   </a>
 </div>
 
