@@ -26,9 +26,9 @@
 <!-- social handles -->
 <div align="center">
   <!-- GitHub -->
-  <a href="https://github.com/hngle" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/hoangle2302" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
   <!-- Gmail -->
-  <a href="mailto:hngle.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:lehuyhoang840@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/hngle" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <!-- Website -->
@@ -38,54 +38,66 @@
 <hr />
 
 <!-- skills -->
+<!-- 🔥 TECH STACK 🔥 -->
 <h2 align="center">🔥 Tech Stack 🔥</h2>
 <br />
 <p align="center">
   <a href="https://skillicons.dev">
       <!-- first row -->
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,html,css,js,git,figma,threejs&theme=dark" />
-          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,html,css,js,git,figma,threejs&theme=light" />
-          <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,html,css,js,git,figma,threejs" alt="skills" />
+          <source media="(prefers-color-scheme: dark)" 
+                  srcset="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,html,css,js,git,figma,threejs&theme=dark" />
+          <source media="(prefers-color-scheme: light)" 
+                  srcset="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,html,css,js,git,figma,threejs&theme=light" />
+          <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,html,css,js,git,figma,threejs" 
+               alt="skills" />
       </picture>
-      <br />
+      <br /><br />
       <!-- second row -->
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma,redux,firebase,supabase&theme=dark" />
-          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma,redux,firebase,supabase&theme=light" />
-          <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma,redux,firebase,supabase" alt="skills" />
+          <source media="(prefers-color-scheme: dark)" 
+                  srcset="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma,redux,firebase,supabase&theme=dark" />
+          <source media="(prefers-color-scheme: light)" 
+                  srcset="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma,redux,firebase,supabase&theme=light" />
+          <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma,redux,firebase,supabase" 
+               alt="skills" />
       </picture>
   </a>
 </p>
 
-<br />
+<hr />
 
-<!-- deployment -->
+<!-- 🚀 DEPLOYMENT & INFRA -->
 <h3 align="center">🚀 Deployment & Infra</h3>
 <p align="center">
   <a href="https://skillicons.dev">
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vercel,netlify,planetscale,docker&theme=dark" />
-          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vercel,netlify,planetscale,docker&theme=light" />
-          <img src="https://skillicons.dev/icons?i=vercel,netlify,planetscale,docker" alt="deployment" />
+          <source media="(prefers-color-scheme: dark)" 
+                  srcset="https://skillicons.dev/icons?i=vercel,netlify,planetscale,docker,aws,cloudflare&theme=dark" />
+          <source media="(prefers-color-scheme: light)" 
+                  srcset="https://skillicons.dev/icons?i=vercel,netlify,planetscale,docker,aws,cloudflare&theme=light" />
+          <img src="https://skillicons.dev/icons?i=vercel,netlify,planetscale,docker,aws,cloudflare" 
+               alt="deployment" />
       </picture>
   </a>
 </p>
 
 <hr />
 
-<!-- snake graph -->
+<!-- 🐍 SNAKE EATING MY CONTRIBUTIONS 🐍 -->
 <div align="center">
   <h2>🐍 Snake Eating My Contributions 🐍</h2>
   <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hngle/hngle/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/hngle/hngle/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/hngle/hngle/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github.com/hngle/hngle/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://github.com/hngle/hngle/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/hngle/hngle/blob/output/github-contribution-grid-snake.svg" 
+         alt="github-snake" />
   </picture>
 </div>
 
-<hr />
 
 <!-- stats -->
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
