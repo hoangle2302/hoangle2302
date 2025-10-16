@@ -88,9 +88,9 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangle2302/hoangle2302/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/hoangle2302/hoangle2302/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/hoangle2302/hoangle2302/output/github-contribution-grid-snake.svg" alt="github-snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hoangle2302/hoangle2302/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/hoangle2302/hoangle2302/blob/output/github-snake.svg" />
+    <img src="https://github.com/hoangle2302/hoangle2302/blob/output/github-snake.svg" alt="github-snake" />
   </picture>
   <br />
   <br />
@@ -250,6 +250,7 @@
   <p><i>⭐️ From <a href="https://github.com/hoangle2302">hoangle2302</a> with ❤️</i></p>
   <p><i>"Every system has a way in, every puzzle has a solution."</i></p>
 </div>
+
 
 
 
