@@ -38,65 +38,62 @@
 <hr />
 
 <!-- skills -->
-<!-- 🔥 TECH STACK 🔥 -->
-<h2 align="center">🔥 Tech Stack 🔥</h2>
+<!-- skills -->
+<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
 <br />
 <p align="center">
   <a href="https://skillicons.dev">
       <!-- first row -->
       <picture>
-          <source media="(prefers-color-scheme: dark)" 
-                  srcset="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,html,css,js,git,figma,threejs&theme=dark" />
-          <source media="(prefers-color-scheme: light)" 
-                  srcset="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,html,css,js,git,figma,threejs&theme=light" />
-          <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,html,css,js,git,figma,threejs" 
-               alt="skills" />
-      </picture>
-      <br /><br />
-      <!-- second row -->
-      <picture>
-          <source media="(prefers-color-scheme: dark)" 
-                  srcset="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma,redux,firebase,supabase&theme=dark" />
-          <source media="(prefers-color-scheme: light)" 
-                  srcset="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma,redux,firebase,supabase&theme=light" />
-          <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma,redux,firebase,supabase" 
-               alt="skills" />
-      </picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=dark" />
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" />
+          <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" alt="skills - 1" />
+        </picture>
+          <br />
+          <!-- second row -->
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" />
+            <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" alt="skills - 2" />
+        </picture>
+
   </a>
 </p>
+<br />
 
-<hr />
-
-<!-- 🚀 DEPLOYMENT & INFRA -->
-<h3 align="center">🚀 Deployment & Infra</h3>
+<!-- deployment -->
+<h3 align="center">Deployment</h3>
 <p align="center">
   <a href="https://skillicons.dev">
       <picture>
-          <source media="(prefers-color-scheme: dark)" 
-                  srcset="https://skillicons.dev/icons?i=vercel,netlify,planetscale,docker,aws,cloudflare&theme=dark" />
-          <source media="(prefers-color-scheme: light)" 
-                  srcset="https://skillicons.dev/icons?i=vercel,netlify,planetscale,docker,aws,cloudflare&theme=light" />
-          <img src="https://skillicons.dev/icons?i=vercel,netlify,planetscale,docker,aws,cloudflare" 
-               alt="deployment" />
-      </picture>
+          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=dark' />
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=light' />
+          <img src='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify' alt="learning" />
+        </picture>
   </a>
+<br />
+<a href="https://www.logalert.app">
+  <img src='https://img.shields.io/badge/Log-Alert-ca3e54?labelColor=5512ca&style=for-the-badge' alt="learning" />
+</a>
 </p>
-
 <hr />
 
-<!-- 🐍 SNAKE EATING MY CONTRIBUTIONS 🐍 -->
+<!-- snake graph -->
 <div align="center">
-  <h2>🐍 Snake Eating My Contributions 🐍</h2>
+  <h2>🐍 Snake eating my contribution 🐍</h2>
   <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github.com/hngle/hngle/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" 
-            srcset="https://github.com/hngle/hngle/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/hngle/hngle/blob/output/github-contribution-grid-snake.svg" 
-         alt="github-snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
   </picture>
+  <br />
+  <br />
+  <br />
 </div>
+
+  <hr />
+
 
 
 <!-- stats -->
