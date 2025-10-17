@@ -32,7 +32,7 @@
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/hngle23" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <!-- Website -->
-  <a href="https://hngle.dev" target="_blank"><img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://hngle.carrd.co/" target="_blank"><img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </div>
 
 <hr />
@@ -250,6 +250,7 @@
   <p><i>⭐️ From <a href="https://github.com/hoangle2302">hngle</a> with ❤️</i></p>
   <p><i>"Every system has a way in, every puzzle has a solution."</i></p>
 </div>
+
 
 
 
