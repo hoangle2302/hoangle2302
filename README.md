@@ -185,9 +185,9 @@
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">🎮 Coming Soon...</h3>
+        <h3 align="center">📷 Photobooth Coming Soon...</h3>
         <div align="center">
-          <img src="https://via.placeholder.com/400x200/1a1b27/70a5fd?text=New+Project+Coming+Soon" alt="Coming Soon"/>
+          <img src="https://github.com/hoangle2302/photo_booth" alt="Coming Soon"/>
           <br />
           <p>
             <img src="https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge"/>
@@ -250,6 +250,7 @@
   <p><i>⭐️ From <a href="https://github.com/hoangle2302">hngle</a> with ❤️</i></p>
   <p><i>"Every system has a way in, every puzzle has a solution."</i></p>
 </div>
+
 
 
 
